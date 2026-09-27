@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "alarm_time": "22:27:00",
+    "label": "random",
+    "days": [],
+    "sound_file": "project\\song.mp3",
+    "max_snoozes": 3,
+    "snooze_minutes": 5,
+    "enabled": true
+  },
+  {
+    "id": 2,
+    "alarm_time": "22:33:00",
+    "label": "Alarm",
+    "days": [],
+    "sound_file": "project\\song.mp3",
+    "max_snoozes": 3,
+    "snooze_minutes": 5,
+    "enabled": true
+  },
+  {
+    "id": 3,
+    "alarm_time": "22:46:00",
+    "label": "ff",
+    "days": [],
+    "sound_file": "project\\song.mp3",
+    "max_snoozes": 3,
+    "snooze_minutes": 5,
+    "enabled": true
+  },
+  {
+    "id": 4,
+    "alarm_time": "22:52:00",
+    "label": "try",
+    "days": [],
+    "sound_file": "project\\song.mp3",
+    "max_snoozes": 3,
+    "snooze_minutes": 5,
+    "enabled": true
+  },
+  {
+    "id": 5,
+    "alarm_time": "22:58:00",
+    "label": "Alarm",
+    "days": [],
+    "sound_file": "project\\song.mp3",
+    "max_snoozes": 3,
+    "snooze_minutes": 5,
+    "enabled": true
+  },
+  {
+    "id": 6,
+    "alarm_time": "23:00:00",
+    "label": "Alarm",
+    "days": [],
+    "sound_file": "project\\song.mp3",
+    "max_snoozes": 3,
+    "snooze_minutes": 5,
+    "enabled": true
+  },
+  {
+    "id": 7,
+    "alarm_time": "14:09:00",
+    "label": "iii",
+    "days": [],
+    "sound_file": ".\\song.mp3",
+    "max_snoozes": 3,
+    "snooze_minutes": 5,
+    "enabled": true
+  },
+  {
+    "id": 8,
+    "alarm_time": "14:11:00",
+    "label": "Alarm",
+    "days": [],
+    "sound_file": ".\\song.mp3",
+    "max_snoozes": 3,
+    "snooze_minutes": 5,
+    "enabled": true
+  },
+  {
+    "id": 9,
+    "alarm_time": "14:12:00",
+    "label": "Alarm",
+    "days": [],
+    "sound_file": ".\\song.mp3",
+    "max_snoozes": 3,
+    "snooze_minutes": 5,
+    "enabled": true
+  },
+  {
+    "id": 10,
+    "alarm_time": "14:17:00",
+    "label": "Alarm",
+    "days": [],
+    "sound_file": ".\\song.mp3",
+    "max_snoozes": 3,
+    "snooze_minutes": 5,
+    "enabled": true
+  },
+  {
+    "id": 11,
+    "alarm_time": "14:19:00",
+    "label": "afternoon",
+    "days": [],
+    "sound_file": ".\\song.mp3",
+    "max_snoozes": 3,
+    "snooze_minutes": 5,
+    "enabled": true
+  },
+  {
+    "id": 12,
+    "alarm_time": "14:34:00",
+    "label": "a",
+    "days": [],
+    "sound_file": ".\\song.mp3",
+    "max_snoozes": 3,
+    "snooze_minutes": 5,
+    "enabled": true
+  },
+  {
+    "id": 13,
+    "alarm_time": "14:35:00",
+    "label": "Alarm",
+    "days": [],
+    "sound_file": ".\\song.mp3",
+    "max_snoozes": 3,
+    "snooze_minutes": 5,
+    "enabled": true
+  },
+  {
+    "id": 14,
+    "alarm_time": "14:36:00",
+    "label": "Alarm",
+    "days": [],
+    "sound_file": ".\\song.mp3",
+    "max_snoozes": 3,
+    "snooze_minutes": 5,
+    "enabled": true
+  },
+  {
+    "id": 15,
+    "alarm_time": "14:38:00",
+    "label": "Alarm",
+    "days": [],
+    "sound_file": ".\\song.mp3",
+    "max_snoozes": 3,
+    "snooze_minutes": 5,
+    "enabled": true
+  },
+  {
+    "id": 16,
+    "alarm_time": "14:41:00",
+    "label": "6",
+    "days": [],
+    "sound_file": ".\\song.mp3",
+    "max_snoozes": 3,
+    "snooze_minutes": 5,
+    "enabled": true
+  },
+  {
+    "id": 17,
+    "alarm_time": "14:44:00",
+    "label": "Alarm",
+    "days": [],
+    "sound_file": ".\\song.mp3",
+    "max_snoozes": 3,
+    "snooze_minutes": 5,
+    "enabled": true
+  },
+  {
+    "id": 18,
+    "alarm_time": "16:50:00",
+    "label": "evening",
+    "days": [],
+    "sound_file": ".\\song.mp3",
+    "max_snoozes": 3,
+    "snooze_minutes": 5,
+    "enabled": true
+  }
+]

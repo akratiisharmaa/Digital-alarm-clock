@@ -1,0 +1,17 @@
+{
+  "theme_index": 0,
+  "use_24h": true,
+  "show_seconds": true,
+  "alarms": [
+    {
+      "time": "01:00",
+      "label": "Alarm",
+      "enabled": true
+    },
+    {
+      "time": "22:05",
+      "label": "Alarm",
+      "enabled": true
+    }
+  ]
+}
