@@ -130,7 +130,7 @@ Place the sound file in the project directory:
 ```text
 Digital-alarm-clock/
 │
-├── alarm_clock.py
+├── ProjectAlarmClock.py
 ├── requirements.txt
 ├── song.mp3
 └── README.md
@@ -145,7 +145,7 @@ You can also specify a different sound-file path when creating an alarm.
 After completing the setup, run:
 
 ```bash
-python alarm_clock.py
+python ProjectAlarmClock.py
 ```
 
 The application will display the main menu:
@@ -397,7 +397,7 @@ After setup and execution, the project may look like:
 ```text
 Digital-alarm-clock/
 │
-├── alarm_clock.py
+├── ProjectAlarmClock.py
 ├── requirements.txt
 ├── song.mp3
 ├── alarms.json
@@ -405,7 +405,7 @@ Digital-alarm-clock/
 └── README.md
 ```
 
-### `alarm_clock.py`
+### `ProjectAlarmClock.py`
 
 Contains the main alarm-clock application.
 
@@ -476,7 +476,7 @@ For the default configuration:
 
 ```text
 Digital-alarm-clock/
-├── alarm_clock.py
+├── ProjectAlarmClock.py
 └── song.mp3
 ```
 
@@ -497,7 +497,7 @@ python -m venv .venv
 ```powershell
 .venv\Scripts\Activate.ps1
 python -m pip install -r requirements.txt
-python alarm_clock.py
+python ProjectAlarmClock.py
 ```
 
 ### Windows Command Prompt
@@ -505,7 +505,7 @@ python alarm_clock.py
 ```cmd
 .venv\Scripts\activate
 python -m pip install -r requirements.txt
-python alarm_clock.py
+python ProjectAlarmClock.py
 ```
 
 Then:
